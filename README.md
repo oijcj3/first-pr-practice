@@ -5,7 +5,7 @@ This is a small practice repository for making my first pull request on GitHub.
 ## What is this?
 
 This repo exists so I can practice the workflow of cloning, branching,
-commiting changes, and openning a pull request.
+committing changes, and opening a pull request.
 
 ## Goal
 
